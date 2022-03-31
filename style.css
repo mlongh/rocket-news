@@ -58,6 +58,17 @@ input {
   border: none;
   border-radius: 0px;
   box-shadow: none;
+  cursor: text;
+  padding: 15px;
+}
+label {
+  margin-left: 36px;
+  font-family: 'Spartan';
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 button {
   background-color: #8257e5;
@@ -71,4 +82,24 @@ button {
   margin-left: 800px;
   margin-top: -48px;
   position: absolute;
+}
+button img {
+  height: 24px;
+  width: 30px;
+  margin-left: -33px;
+  margin-top: -3px;
+  border-radius: 0px;
+}
+div .deixe-me-ler,
+a {
+  text-decoration: none;
+  color: #8257e5;
+  margin-left: 30px;
+  font-family: 'Spartan';
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 15px;
 }
